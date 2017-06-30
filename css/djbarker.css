@@ -15,7 +15,11 @@ html {
 
 body {
   position: relative;
+<<<<<<< HEAD
   background-image: ./images/back.jpg;
+=======
+  background-image: ./images/back.jpg
+>>>>>>> 451271939bf1fe0eca9e175c300556bcdc36e9e3
   margin: 0;
   padding-bottom: 6rem;
   min-height: 100%;
