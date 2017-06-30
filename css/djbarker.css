@@ -15,7 +15,7 @@ html {
 
 body {
   position: relative;
-  background-image: ./images/background.jpg
+  background-image: background.jpg
   margin: 0;
   padding-bottom: 6rem;
   min-height: 100%;
